@@ -49,7 +49,7 @@ MIDDLEWARE = [
 
 
 CORS_ALLOWED_ORIGINS = [
-    "https://nicat-n/github.io",
+    "https://nicat-n.github.io",
 ]
 
 
